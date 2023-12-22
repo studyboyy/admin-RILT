@@ -1,0 +1,57 @@
+@import url("../fonts/style.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    table{
+        @apply w-full text-sm border-t 
+    }
+
+
+    thead tr {
+        @apply bg-blue-50/40
+    }
+
+    tr {
+        @apply text-center border-b border-blue-100 cursor-pointer transition-all duration-200;
+    }
+
+
+    th,
+    td {
+        @apply p-4 whitespace-nowrap text-zinc-600  ;
+    }
+
+    
+
+}
+
+
+
+
+
+.transisi {
+    @apply transition-all duration-300 ease-in-out
+}
+
+::-webkit-scrollbar { 
+    @apply w-1 h-1 
+} 
+  
+/* Track */
+::-webkit-scrollbar-track { 
+    @apply bg-gray-100 
+} 
+  
+/* Handle */
+::-webkit-scrollbar-thumb { 
+    @apply bg-slate-300 rounded-lg 
+} 
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover { 
+   @apply hover:bg-slate-500
+}
