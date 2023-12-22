@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 6y
+=======
+hi i rtr
+iu i trt
+>>>>>>> addfitur
