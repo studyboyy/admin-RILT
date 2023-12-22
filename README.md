@@ -1,1 +1,1 @@
-this is project admin dashboard with RILT
+this is admin dashboard with RILT project
