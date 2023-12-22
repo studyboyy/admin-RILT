@@ -1,2 +1,2 @@
-ini adalah dari1 lara y y
-add fitur11 lara y y
+ini adalah dari1 lara y c
+add fitur11 lara y c
