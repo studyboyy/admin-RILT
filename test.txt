@@ -1,2 +1,2 @@
-ini adalah dari
-add fitur1
+ini adalah dari1
+add fitur11

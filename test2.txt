@@ -1,2 +1,2 @@
-ini dari 
-add fitur
+ini dari 1
+add fitur1
