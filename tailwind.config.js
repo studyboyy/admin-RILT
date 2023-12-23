@@ -13,8 +13,11 @@ export default {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Figtree', ...defaultTheme.fontFamily.sans],
+                sans: ["GT Walsheim Pro", ...defaultTheme.fontFamily.sans],
             },
+            backgroundImage: {
+                'login-bg' : "url('/images/bg-login.png')",
+            }
         },
     },
 

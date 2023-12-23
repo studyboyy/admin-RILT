@@ -4,6 +4,7 @@ import AdminLayout from "@/Layouts/AdminLayout";
 const Dashboard = () => {
     return (
         <>
+        
             <DashboardLayout />
         </>
     );
